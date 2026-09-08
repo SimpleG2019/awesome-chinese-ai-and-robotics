@@ -12,7 +12,7 @@
 
 ## 🌐 Official Platform & Endpoints
 * **Web Portal**: [https://sinoailab.com](https://sinoailab.com)
-* **Complete Research Catalog**: [CATALOG.md](CATALOG.md) (400 Curated Publications)
+* **Complete Research Catalog**: [CATALOG.md](CATALOG.md) (928 Curated Publications)
 * **XML Sitemap Feed**: [https://sinoailab.com/articles-sitemap.xml](https://sinoailab.com/articles-sitemap.xml)
 
 ---

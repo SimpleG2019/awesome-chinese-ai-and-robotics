@@ -1,9 +1,9 @@
-# 📚 SinoAILab Curated Open Intelligence Catalog (4,996 Papers)
+# 📚 SinoAILab Curated Open Intelligence Catalog (5,246 Papers)
 
 > Verified, peer-reviewed authentic Chinese research breakthroughs in **Artificial Intelligence, Humanoid Robotics & Neural Systems**.
 > Maintained by [SinoAILab](https://sinoailab.com) | Open Access & Machine-Readable.
 
-*Last Synchronized: 2026-10-15 13:47:17 UTC*
+*Last Synchronized: 2026-10-17 04:11:33 UTC*
 
 | # | Paper Title | DOI / Identifiers | Verified Reading Link |
 |---|---|---|---|
